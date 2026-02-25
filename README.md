@@ -1,53 +1,103 @@
+<!-- HEADER BANNER -->
+<h1 align="center">🔐 Lucia Santillan Arriaga</h1>
+<h3 align="center">Cybersecurity | Risk Analyst | AI Enthusiast</h3>
 
-Author: Lucia Santillan Arriaga
-UTSA | Cybersecurity Student | AI Enthusiast 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Portfolio-ff00ff?style=for-the-badge&logo=github&logoColor=00eaff" />
+</p>
+
+<!-- NEON CONTACT BUTTONS (ALL IN ONE LINE) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucia-santillan-arriaga-23659b238">
+    <img src="https://img.shields.io/badge/LinkedIn-00eaff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:lucia.sanarriaga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff007f?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/lucia-sanarriag">
+    <img src="https://img.shields.io/badge/GitHub-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ☕✨ About Me — The Lucia Edition
 
 
-Welcome to my corner of the cybersecurity universe — where risk assessments meet coffee shops, bookshelves, and a little bit of Moon Dust.
-This repository is a curated collection of my cybersecurity work, including cloud security reviews, vulnerability scan reports, and other assessments I’ve created as part of my academic journey and hands‑on learning. My goal is to blend technical clarity with real‑world practicality while keeping things approachable and engaging.
-
-☕✨ About Me — The Lucía Edition
-Hi, I’m Lucía, a junior at UTSA studying Cybersecurity — powered by caffeine, curiosity, and a borderline‑romantic relationship with bookstores.
+Hi, I’m Lucía, a junior at UTSA studying Cybersecurity- powered by caffeine, curiosity, and a borderline‑romantic relationship with bookstores.  
 Here’s what keeps my world spinning:
-• 	🏀 Playing basketball and pickleball
-• 	📚 Wandering through bookstores and coffee shops like it’s a personality trait
-• 	🤖 Geeking out over cybersecurity frameworks, risk analysis, and digital defense
-• 	Exploring everything related to AI
-• 	Diving deep into cybersecurity frameworks, risk analysis, and digital defense
-• 	Running my small online bookstore on Pango:
-🌙 Moon Dust & Letter Leafs — where I sell all kinds of books, from fantasy to philosophy
-I’m someone who loves learning, building, and creating — whether it’s a risk assessment, a cloud security review, or a cozy reading nook.
 
 
-🔐 What You’ll Find 
-This repository includes:
-📄 Cloud Security Review
+
+• 🏀 Playing basketball and pickleball  
+• 📚 Wandering through bookstores and coffee shops like it’s a personality trait  
+• 🤖 Geeking out over cybersecurity frameworks, risk analysis, and digital defense  
+• Exploring everything related to AI  
+• Diving deep into cybersecurity frameworks, risk analysis, and digital defense  
+• Running my small online bookstore on Pango:  
+🌙 Moon Dust & Letter Leafs — where I sell all kinds of books, from fantasy to philosophy  
+
+I’m someone who loves learning, building, and creating — whether it’s a risk assessment, a cloud security review, or reading a well‑worth nook.
+
+---
+
+## 🔐 What You’ll Find:
+
+📄 **Cloud Security Review**  
 A full evaluation of a fictional AWS environment, covering IAM, S3, EC2, VPC, encryption, and logging.
-🛡️ Vulnerability Scan Report
+
+🛡️ **Vulnerability Scan Report**  
 A structured, professional report summarizing critical, high, medium, and low‑severity findings from a simulated vulnerability scan.
-📚 Additional Assessments Coming Soon
-- SOC Incident Report
-- Security Policies
-- Network Diagrams
-- Python Automation Scripts
-- More risk assessments
 
-🎯 Purpose 
-This is part of my growing cybersecurity portfolio. It showcases:
+📚 **Additional Assessments Coming Soon**  
+- SOC Incident Report  
+- Security Policies  
+- Network Diagrams  
+- Python Automation Scripts  
+- More risk assessments  
 
-- My analytical thinking
-- My documentation style
-- My understanding of real‑world security concepts
-- My ability to communicate technical findings clearly
-🎯 It’s designed for recruiters, hiring managers, professors, and anyone curious about my work.
+---
 
-🌐 Let’s connect, collaborate, or talk books, sports, AI, or cybersecurity.
+## 🎯 Purpose
 
-LinkedIn:
-www.linkedin.com/in/lucia-santillan-arriaga-23659b238 (linkedin.com in Bing)
+- My analytical thinking  
+- My documentation style  
+- My understanding of real‑world security concepts  
+- My ability to communicate technical findings clearly  
 
-Email:lucia.sanarriaga@gmail.com
+🎯 ***It’s designed for recruiters, hiring managers, professors, and anyone curious about my work.***
 
-GitHub:github.com/lucia-sanarriag
+---
 
+## 🧰 Skills & Tools
 
+### 🔐 **Cybersecurity**
+- Risk Assessment  
+- Cloud Security (AWS)  
+- Vulnerability Analysis  
+- Incident Response  
+- Security Documentation  
+
+### 🛠️ **Technical Tools**
+- Wireshark  
+- Nmap  
+- Burp Suite  
+- AWS Console  
+- Git & GitHub  
+- Python (beginner automation)  
+
+---
+
+## 🌙 A Little Extra
+
+When I’m not analyzing risks or writing reports, you’ll probably find me:  
+- Browsing a bookstore  
+- Curating books for *Moon Dust & Letter Leafs*  
+- Learning something new about AI  
+- Building my portfolio one project at a time  
+
+---
+
+## ⭐ Thanks for Visiting!
+
+Feel free to explore my work — and connect with me using the buttons above!
