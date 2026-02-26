@@ -1,0 +1,72 @@
+"""
+Student Name: Lucia Santillan Arriaga
+UTSA ID: vep381
+Section: 901/902 Programming 1 lab 2
+Description: Texas Road Trip Travel Calculator Game.Get player info,
+roll for travel miles, diplay a destination menu, and get the player's choice.
+"""
+
+# Constants - distances from SAn Antonio (in miles)
+SAT_TO_CORPUS = 150
+SAT_TO_HOUSTON = 200
+SAT_TO_AUSTIN = 80
+
+
+def main():
+    """Mian Function"""
+
+    # Welcome banner
+    print()
+    print('=' * 50)
+    print('DEEP IN THE HEART: A LONE STAR JOURNEY')
+    print('=' * 50)
+    print()
+
+    # --- Checkpoint 2: Player Input---
+
+    player_name = input('What is your name, traveler? ')
+    print(f"\nWelcome to Texas, {player_name}!\n")
+
+    print("Head to the dice generator and roll a number between 1 and 20.")
+    roll = int(input('What did you roll? (1-20): '))
+
+    # Calculate remaining distances
+    miles_rolled = roll * 10
+
+    print()
+    print(f"You rolled: {roll}")
+    print(f"Miles you can travel: {miles_rolled}\n")
+
+    #--- Destination Menue ---
+    remaining_corpus = SAT_TO_CORPUS - miles_rolled
+    remaining_houston = SAT_TO_HOUSTON - miles_rolled
+    remaining_austin = SAT_TO_AUSTIN - miles_rolled
+
+    # Travel Report
+
+    print()
+    print('=' * 50)
+    print("TRAVEL REPORT")
+    print('=' * 50)
+    print(f"Driver: {player_name}")
+    print(f"You rolled: {roll}")
+    print(f"Miles you can travel: {miles_rolled}")
+    print('=' * 50)
+
+    print("\nDISTANCES FROM SAN ANTONIO:\n")
+
+    print(f"  Corpus Christi: {SAT_TO_CORPUS} miles (BEACH!)")
+    print(f"   After your roll: {remaining_corpus} miles remaining\n")
+
+    print(f"  Houston {SAT_TO_HOUSTON} miles")
+    print(f"   After your roll: {remaining_houston} miles remaining\n")
+
+    print(f"  Austin {SAT_TO_AUSTIN} miles")
+    print(f"   After your roll: {remaining_austin} miles remaining\n")
+
+    print("Negative = you made it with miles to spare!")
+    print("Positive = you still have miles to go.")
+
+
+if __name__ == '__main__':
+    main()

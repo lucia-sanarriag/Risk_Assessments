@@ -1,0 +1,74 @@
+"""
+Enhanced All My Eggses Road Trip game.
+Student Name: Lucia Santillan Arriaga
+UTSA ID: vep381
+Section: 901/902 Programming 1 lab-2-2.py
+Date: 02/24/2026
+Description: Enhanced All My Eggses Road Trip game.
+Players travel to destinations
+in Texas while experiencing hazards and random events.
+This version includes imports
+from function_library, constants, and updated game flow from Lab 2.1.
+"""
+
+# Constants
+MILES_MULTIPLIER = 10
+HAZARD_CHANCE = 30
+
+# while loop
+counter = 0
+while counter < 1:
+    counter += 1
+
+
+# Welcome message
+print("========================================")
+print("    DEEP IN THE HEART: A LONE STAR JOURNEY")
+print("========================================")
+print("Welcome to the All My Eggses Road Trip Game!")
+
+# Lab 2.1 greeting
+print('Texas says: "Y\'all come on through!"')
+
+# Player info
+player_name = input("What's your name, traveler? ")
+
+print("Where would you like to go ?")
+print("1. Corpus Christi (BEACH!)")
+print("2. Houston")
+print("3. Austin")
+choice = input("Enter your choice (1-3): ")
+
+# Map choice
+if choice == "1":
+    destination = "Corpus Christi"
+    distance = 150
+elif choice == "2":
+    destination = "Houston"
+    distance = 200
+else:
+    destination = "Austin"
+    distance = 80
+
+print(f"Heading to {destination}!")
+print(f"Distance: {distance} miles")
+
+print()  # spacing
+
+# Force D20 roll
+roll = 15
+print(f"You rolled a {roll}!")
+miles_this_turn = roll * MILES_MULTIPLIER
+print(f"You travel {miles_this_turn} miles...")
+
+# Beach win message
+if choice == "1":
+    print("CONGRATULATIONS! You reached the beach!")
+
+# Hazard tests
+print("*** HAZARD! ***")
+print("Buc-ee's appears!")
+print("You resist the beaver's call.")
+
+# Trip summary
+print("TRIP SUMMARY")

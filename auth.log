@@ -1,0 +1,4 @@
+Feb 26 10:15:22 server sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 22
+Feb 26 10:16:01 server sshd[1234]: Failed password for invalid user test from 192.168.1.10 port 22
+Feb 26 10:17:45 server sshd[1234]: Accepted password for lucia from 192.168.1.15 port 22
+Feb 26 10:18:10 server sshd[1234]: Failed password for invalid user guest from 10.0.0.5 port 22
