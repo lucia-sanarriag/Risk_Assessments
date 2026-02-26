@@ -10,7 +10,7 @@
 
 <!-- NEON CONTACT BUTTONS (ALL IN ONE LINE) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucia-santillan-arriaga-23659b238">
+  <a href="https://www.linkedin.com/in/lucia-santillan-arriaga/">
     <img src="https://img.shields.io/badge/LinkedIn-00eaff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:lucia.sanarriaga@gmail.com">
