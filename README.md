@@ -3,7 +3,9 @@
 <h3 align="center">Cybersecurity | Risk Analyst | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Portfolio-ff00ff?style=for-the-badge&logo=github&logoColor=00eaff" />
+  <a href="https://github.com/lucia-sanarriag/Risk_Assessments">
+    <img src="https://img.shields.io/badge/Cybersecurity-Portfolio-ff00ff?style=for-the-badge&logo=github&logoColor=00eaff" />
+  </a>
 </p>
 
 <!-- NEON CONTACT BUTTONS (ALL IN ONE LINE) -->
